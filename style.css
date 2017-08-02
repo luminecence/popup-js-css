@@ -1,0 +1,20 @@
+.popup-contenu {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  top: 25%;
+  left: 25%;
+  background-color: white;
+  z-index: 100;
+}
+
+.griser-fenetre {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  opacity: 0.75;
+  background-color: grey;
+  z-index: 2;
+}
